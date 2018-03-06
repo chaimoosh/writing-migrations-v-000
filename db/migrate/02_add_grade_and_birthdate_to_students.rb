@@ -1,1 +1,3 @@
-Class AddStuff <
+Class AddStuff < ActiveRecord::Migration
+
+end 
